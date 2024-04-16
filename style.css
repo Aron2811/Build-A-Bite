@@ -18,7 +18,7 @@
 
 #footer {
   position: absolute;
-  margin-top: 6rem;
+  margin-top: -5rem;
   
 }
 
@@ -39,4 +39,8 @@
 
 #content {
   margin-left: 22rem;
+}
+
+#navbar {
+  color: red;
 }
