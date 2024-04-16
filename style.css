@@ -1,0 +1,42 @@
+* {
+  margin: 0;
+  padding: 0;
+  color: black;
+}
+
+#container {
+  height: 280vh;
+  width: 100%;
+  margin: auto;
+  
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  
+}
+
+
+#footer {
+  position: absolute;
+  margin-top: 6rem;
+  
+}
+
+#logo {
+  display: inline-block;
+  margin-left: 0;
+  margin-right: 0;
+}
+#pic {
+  position: absolute;
+  margin-left: 15rem;
+}
+#buildAbite {
+  position: absolute;
+  left: 10rem;
+  top: 3.8rem
+}
+
+#content {
+  margin-left: 22rem;
+}
